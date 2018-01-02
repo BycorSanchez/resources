@@ -8,46 +8,6 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
-
-/* 
-    Palette 
-        Menu
-            Background: #222529
-            Font: #ffffff
-
-            Links: rgba(255, 255, 255, 0.5)
-            Fa icons: #41484c
-            Header2: #ffffff
-
-            Nav
-                Active links: #ffffff
-                Active fa icons: #ffba73 
-
-            Footer
-                Hover icons: #ffffff
-
-        Menu Scrollbar
-            Background: #222529
-            Scroll: #dce3e2
-
-        Main
-            Background: #f3f8f8
-            Font: #000000
-            Even sections: #e9eeee
-            links: #2889c7
-
-            Top
-                Font: rgba(255, 255, 255, 0.75)
-
-            Footer
-                Font: #888888
-                Background: #dce3e2
-
-        Menu icon
-            Background: rgba(128, 136, 144, 0.5)
-            Font: #ffffff
-*/
-
 h1 {
     font-size: 2em;
 }
@@ -88,7 +48,7 @@ a {
     color: #ffffff;
     position: fixed;
     height: 100%;
-    width: 290px;
+    width: 340px;
     text-align: right;
     overflow-y: auto;
     font-weight: lighter;
@@ -182,7 +142,7 @@ a {
 /* Main */
 
 #main {
-    margin-left: 290px;
+    margin-left: 340px;
     background-color: #f3f8f8;
     color: #000000;
     font-size: 1.14em;
@@ -263,7 +223,6 @@ a {
     background-color: #dce3e2;
 }
 
-
 /* Icon menu */
 
 #menu-icon {
@@ -292,8 +251,6 @@ a {
     background-color: rgba(128, 136, 144, 0.5);
     border-radius: 10%;
 }
-
-
 
 /* Middle */
 
@@ -328,8 +285,6 @@ a {
         margin-left: 255px;
     }
 }
-
-
 
 /* Mobile */
 
