@@ -1,5 +1,7 @@
 # Resources
-#### List of resources for web developers. Collected at the forum during the Google / Udacity Front-End Developer Scholarship
+#### List of resources for web developers. Collected at the forum during the Google / Udacity Front-End Developer Scholarship. 
+
+#### Website [https://bycorsanchez.github.io/resources](https://bycorsanchez.github.io/resources/)
 
 ## HTML
 * [HTML 5.3](http://w3c.github.io/html/)
