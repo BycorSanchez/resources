@@ -236,6 +236,10 @@
 * [UX Design](https://uxdesign.cc)
 * [Code My UI](https://codemyui.com/)
 
+## Learning Paths
+* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
+
 ## Miscellaneous 
 * [Stackoverflow](https://stackoverflow.com)
 * [Devdocs API documentation](http://devdocs.io)
@@ -246,9 +250,6 @@
 * [Dirty Markup](https://www.10bestdesign.com/dirtymarkup/)
 * [Pattern Library](http://thepatternlibrary.com/)
 * [Collection of JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
+* [Codeburst](https://codeburst.io)
 
-## Learning Paths
-* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-* [Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
-
-Last update: January 1st, 2018
+Last update: January 3rd, 2018
