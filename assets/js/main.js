@@ -40,8 +40,7 @@ $(document).ready(function() {
     $('#menu-icon').click(toggleMenu);
 
     $(document).on("scroll", function() {
-        const screenHeight = window.innerHeight;
-        let position = $(this).scrollTop() + (screenHeight / 3);
+        let position = $(this).scrollTop() + 1;
         updateActive(position);
     });
 
