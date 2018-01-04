@@ -82,6 +82,7 @@
 * [Platzi](https://courses.platzi.com)
 * [Laracasts](https://laracasts.com)
 * [Codemonk on Hackerearth](https://www.hackerearth.com/practice/codemonk/)
+* [Coding Heroes](http://codingheroes.io/index.html)
 
 ## Fonts and typography
 * [Google Fonts](https://fonts.google.com)
@@ -126,6 +127,8 @@
 * [Material Design](https://material.io)
 * [Colour Lovers](http://www.colourlovers.com)
 * [UI Gradients](https://uigradients.com/)
+* [0to255](http://www.0to255.com/)
+* [Lol Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 
 ## Flexbox 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -236,6 +239,9 @@
 * [Co Design](https://www.fastcodesign.com)
 * [Inspire Design](http://inspiredesign.me/)
 * [Designify](http://designify.me/)
+* [Call To Idea](http://www.calltoidea.com)
+* [One Page Love](https://onepagelove.com)
+* [Land Book](https://land-book.com)
 
 ## UI / UX Design
 
@@ -251,7 +257,6 @@
 * [Stackoverflow](https://stackoverflow.com)
 * [Devdocs API documentation](http://devdocs.io)
 * [CodePen](https://codepen.io)
-* [Jonas’ Resources](http://codingheroes.io/resources/)
 * [Emmet CheatSheet](https://docs.emmet.io/cheat-sheet/)
 * [Makerbook](http://makerbook.net)
 * [Dirty Markup](https://www.10bestdesign.com/dirtymarkup/)
