@@ -43,7 +43,6 @@
 * [JS Exercises](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
 * [JS Exercises2](https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php)
 * [Edabit](https://edabit.com)
-* [HackerRank](https://www.hackerrank.com)
 
 ## Jquery
 * [Documentation](http://api.jquery.com)
@@ -79,6 +78,10 @@
 * [Internet is hard](https://internetingishard.com)
 * [Egg Head](https://egghead.io)
 * [Sabe](https://sabe.io)
+* [HackerRank](https://www.hackerrank.com)
+* [Platzi](https://courses.platzi.com)
+* [Laracasts](https://laracasts.com)
+* [Codemonk on Hackerearth](https://www.hackerearth.com/practice/codemonk/)
 
 ## Fonts and typography
 * [Google Fonts](https://fonts.google.com)
@@ -120,7 +123,6 @@
 * [Material Palette](https://www.materialpalette.com)
 * [Flaticons UI Colors](https://flatuicolors.com)
 * [Noun Project](https://thenounproject.com)
-* [Icon Store](https://iconstore.co)
 * [Material Design](https://material.io)
 * [Colour Lovers](http://www.colourlovers.com)
 * [UI Gradients](https://uigradients.com/)
@@ -131,12 +133,12 @@
 * [Learn Layout (flexbox)](http://learnlayout.com/flexbox.html)
 * [Flexbox.io](https://flexbox.io)
 
-## Bootstrap Framework and CSS Grid
-* [Bootstrap Framework](https://getbootstrap.com/docs/3.3/)
-* [Bootstrap grid builder](http://shoelace.io)
+## CSS Grid and Bootstrap
 * [CSS Grid by example](https://gridbyexample.com)
 * [JenSimmons Labs CSS Grid](http://labs.jensimmons.com)
 * [CSS grid starter layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/)
+* [Bootstrap Framework](https://getbootstrap.com/docs/3.3/)
+* [Bootstrap grid builder](http://shoelace.io)
 
 ## Royalty free images
 * [Unsplash](https://unsplash.com)
@@ -163,6 +165,7 @@
 * [Flaticons](http://flaticons.net)
 * [Iconfinder](https://www.iconfinder.com)
 * [Freepik](https://www.freepik.com/free-icons)
+* [Icon Store](https://iconstore.co)
 
 ## Podcasts 
 * [Castbox](https://castbox.fm)
@@ -195,14 +198,14 @@
 * [JS Books](https://jsbooks.revolunet.com)
 
 ## Reddit threads
-* [Web development](https://www.reddit.com/r/webdev/)
-* [Javascript](https://www.reddit.com/r/javascript/)
 * [HTML](https://www.reddit.com/r/HTML/)
 * [CSS](https://www.reddit.com/r/css/)
+* [Javascript](https://www.reddit.com/r/javascript/)
+* [Web development](https://www.reddit.com/r/webdev/)
 * [Web design](https://www.reddit.com/r/web_design/)
 * [JQuery](https://www.reddit.com/r/jquery/)
 
-## Games and Apps
+## Games & Apps
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [Grid Garden](http://cssgridgarden.com)
 * [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
@@ -256,4 +259,4 @@
 * [Collection of JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
 * [Codeburst](https://codeburst.io)
 
-Last update: January 3rd, 2018
+Last update: January 4th, 2018
