@@ -81,7 +81,6 @@
 * [Sabe](https://sabe.io)
 
 ## Fonts and typography
-* [Font Awesome](http://fontawesome.io)
 * [Google Fonts](https://fonts.google.com)
 * [Just my type](https://www.justmytype.co)
 * [Google Web fonts](https://femmebot.github.io/google-type/)
@@ -139,12 +138,11 @@
 * [JenSimmons Labs CSS Grid](http://labs.jensimmons.com)
 * [CSS grid starter layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/)
 
-## Royalty free images and icons
+## Royalty free images
 * [Unsplash](https://unsplash.com)
 * [Stocksnap](https://stocksnap.io)
 * [Pexels](https://www.pexels.com)
 * [Pixabay](https://pixabay.com)
-* [Flaticons](http://flaticons.net)
 * [Free images](https://www.freeimages.com)
 * [Burst Shopify](https://burst.shopify.com)
 * [Isorepublic](https://isorepublic.com)
@@ -159,6 +157,12 @@
 * [Shot Stash](https://shotstash.com)
 * [Styled Stock](https://styledstock.co/)
 * [Freepik](https://www.freepik.com)
+
+## Icons
+* [Font Awesome](http://fontawesome.io/)
+* [Flaticons](http://flaticons.net)
+* [Iconfinder](https://www.iconfinder.com)
+* [Freepik](https://www.freepik.com/free-icons)
 
 ## Podcasts 
 * [Castbox](https://castbox.fm)
