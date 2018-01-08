@@ -171,6 +171,9 @@
 * [Iconfinder](https://www.iconfinder.com)
 * [Freepik](https://www.freepik.com/free-icons)
 * [Icon Store](https://iconstore.co)
+* [Iconmonstr](https://iconmonstr.com)
+* [Linea](http://linea.io)
+* [Ionicons](http://ionicons.com)
 
 ## Podcasts 
 * [Castbox](https://castbox.fm)
