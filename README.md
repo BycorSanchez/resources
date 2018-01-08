@@ -28,13 +28,13 @@
 * [Human JS](http://read.humanjavascript.com)
 * [Developing Backbone.js](https://addyosmani.com/backbone-fundamentals/)
 * [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS)
-* [Practical JS](https://watchandcode.com/p/practical-javascript)
 * [JS the right way](http://jstherightway.org)
 * [Programming JS Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [JS.Info](http://javascript.info)
 * [JS Robot](https://lab.reaal.me/jsrobot/)
 * [JavaScript is sexy](http://javascriptissexy.com)
 * [ES6 Features](http://es6-features.org/)
+* [Watch and Code](https://watchandcode.com/)
 
 ## JavaScript challenges and exercices
 * [JS Codewars](https://www.codewars.com/?language=javascript)
@@ -83,6 +83,7 @@
 * [Laracasts](https://laracasts.com)
 * [Codemonk on Hackerearth](https://www.hackerearth.com/practice/codemonk/)
 * [Coding Heroes](http://codingheroes.io/index.html)
+* [Wes Bos](http://wesbos.com/courses/)
 
 ## Fonts and typography
 * [Google Fonts](https://fonts.google.com)
@@ -112,6 +113,7 @@
 * [Thimble by Mozilla](https://thimble.mozilla.org/en-GB/)
 * [Glyphter custom icon fonts](https://glyphter.com)
 * [Regular Expressions tester](https://regex101.com)
+* [JavaScript Object Explorer](https://sdras.github.io//object-explorer/)
 
 ## Colors and Palettes
 * [Adobe Color](https://color.adobe.com)
@@ -263,5 +265,6 @@
 * [Pattern Library](http://thepatternlibrary.com/)
 * [Collection of JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
 * [Codeburst](https://codeburst.io)
+* [JavaScripting](http://www.javascripting.com)
 
 Last update: January 4th, 2018
