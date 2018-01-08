@@ -177,7 +177,7 @@
 
 ## Podcasts 
 * [Castbox](https://castbox.fm)
-* [CodeNewbie](https://player.fm/series/codenewbie-1250448)
+* [CodeNewbie](https://www.codenewbie.org/podcast)
 * [Learn to Code With Me](https://player.fm/series/learn-to-code-with-me)
 * [ShopTalk](https://player.fm/series/shoptalk-19036)
 * [Front End Happy Hour](https://player.fm/series/front-end-happy-hour-131187)
@@ -194,6 +194,8 @@
 * [Soft Skills Engineering](https://player.fm/series/soft-skills-engineering-133571)
 * [CTRL+CLICK CAST](https://player.fm/series/ctrlclick-cast-57056)
 * [Full Stack Radio](https://player.fm/series/series-1401837)
+* [Start Here: Web Development](https://soundcloud.com/starthere-webdev)
+* [Syntax.fm](https://syntax.fm)
 
 ## Ebooks 
 * [50 ebooks about web development](https://speckyboy.com/free-web-design-ebooks/)
@@ -270,4 +272,4 @@
 * [Codeburst](https://codeburst.io)
 * [JavaScripting](http://www.javascripting.com)
 
-Last update: January 4th, 2018
+Last update: January 8th, 2018
