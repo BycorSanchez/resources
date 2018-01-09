@@ -17,6 +17,7 @@
 * [CSS CheatSheet](https://www.onblastblog.com/css3-cheat-sheet/)
 * [CSS Reference](http://cssreference.io)
 * [CSS zen garden](http://www.csszengarden.com)
+* [CSS reference by Codrops](https://tympanus.net/codrops/css_reference/)
 
 ## Learn JavaScript
 * [JS for cats](http://jsforcats.com)
