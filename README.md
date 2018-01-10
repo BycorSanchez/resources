@@ -146,7 +146,7 @@
 * [Bootstrap Framework](https://getbootstrap.com/docs/3.3/)
 * [Bootstrap grid builder](http://shoelace.io)
 
-## Royalty free images
+## Images
 * [Unsplash](https://unsplash.com)
 * [Stocksnap](https://stocksnap.io)
 * [Pexels](https://www.pexels.com)
@@ -165,6 +165,8 @@
 * [Shot Stash](https://shotstash.com)
 * [Styled Stock](https://styledstock.co/)
 * [Freepik](https://www.freepik.com)
+* [Magdeleine](https://magdeleine.co/)
+* [Cupcake](http://cupcake.nilssonlee.se)
 
 ## Icons
 * [Font Awesome](http://fontawesome.io/)
@@ -275,4 +277,4 @@
 * [JavaScripting](http://www.javascripting.com)
 * [Testdome](https://www.testdome.com)
 
-Last update: January 9th, 2018
+Last update: January 10th, 2018
