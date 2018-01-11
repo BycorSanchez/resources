@@ -1,5 +1,5 @@
 # Resources
-#### List of resources for web developers. Collected at the forum during the Google / Udacity Front-End Developer Scholarship. 
+#### List of resources for web developers. Collected at the forum during the Google / Udacity Front-End Developer Scholarship.  
 
 #### Website [https://bycorsanchez.github.io/resources](https://bycorsanchez.github.io/resources/)
 
@@ -209,6 +209,7 @@
 * [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#javascript)
 * [Speaking JavaScript](http://speakingjs.com/es5/)
 * [JS Books](https://jsbooks.revolunet.com)
+* [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)
 
 ## Reddit threads
 * [HTML](https://www.reddit.com/r/HTML/)
@@ -277,4 +278,4 @@
 * [JavaScripting](http://www.javascripting.com)
 * [Testdome](https://www.testdome.com)
 
-Last update: January 10th, 2018
+Last update: January 11th, 2018
