@@ -130,6 +130,7 @@
 * [UI Gradients](https://uigradients.com/)
 * [0to255](http://www.0to255.com/)
 * [Lol Colors](https://www.webdesignrankings.com/resources/lolcolors/)
+* [Web Gradients](https://webgradients.com)
 
 ## Flexbox 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -280,4 +281,4 @@
 * [JavaScripting](http://www.javascripting.com)
 * [Testdome](https://www.testdome.com)
 
-Last update: January 11th, 2018
+Last update: January 12th, 2018
