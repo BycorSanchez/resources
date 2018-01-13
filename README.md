@@ -295,6 +295,7 @@
 ## Bookmarks
 * [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
+* [Awesome Resources](https://github.com/dreamtocode/awesome-resources)
 
 ## Learning Paths
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
