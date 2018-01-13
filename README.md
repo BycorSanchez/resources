@@ -268,6 +268,34 @@
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
 
+## Resources for women & girls
+* [Women Who Code](https://www.womenwhocode.com)
+* [Mother Coders](http://www.mothercoders.org)
+* [Girl Develop It](https://www.girldevelopit.com)
+* [Hackbright Academy](https://hackbrightacademy.com)
+* [Pyladies](http://www.pyladies.com)
+* [Rails Girls](http://railsgirls.com)
+* [Hire Tech Ladies](https://www.hiretechladies.com)
+* [Girls Who Code](https://girlswhocode.com)
+* [Astia](http://astia.org)
+* [Ada Initiative](https://adainitiative.org)
+* [Anitab.org](https://anitab.org)
+* [Girls in Tech](http://girlsintech.org)
+* [Webgrrls](http://www.webgrrls.com)
+* [Women2](https://www.women2.com)
+* [Women in Wireless](https://womeninwireless.org)
+* [Women Who Tech](https://www.womenwhotech.com)
+* [Witi](https://www.witi.com)
+* [Women in Technology](http://www.womenintechnology.org)
+* [She's coding](http://shescoding.org)
+* [Woman Tech Makers](https://www.womentechmakers.com)
+* [Django Girls](https://djangogirls.org)
+* [Code like a girl](https://code.likeagirl.io)
+* [Made with code](https://www.madewithcode.com)
+* [Codelikeagirl](https://codelikeagirl.org)
+* [Coding Girls](https://www.coding-girls.com)
+* [Girls teaching girls to code](http://girlsteachinggirlstocode.org)
+
 ## Miscellaneous 
 * [Stackoverflow](https://stackoverflow.com)
 * [Devdocs API documentation](http://devdocs.io)
@@ -280,5 +308,6 @@
 * [Codeburst](https://codeburst.io)
 * [JavaScripting](http://www.javascripting.com)
 * [Testdome](https://www.testdome.com)
+* [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
-Last update: January 12th, 2018
+Last update: January 13th, 2018
