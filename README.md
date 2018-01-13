@@ -264,10 +264,6 @@
 * [UX Design](https://uxdesign.cc)
 * [Code My UI](https://codemyui.com/)
 
-## Learning Paths
-* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
-* [Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
-
 ## Resources for women & girls
 * [Women Who Code](https://www.womenwhocode.com)
 * [Mother Coders](http://www.mothercoders.org)
@@ -296,6 +292,14 @@
 * [Coding Girls](https://www.coding-girls.com)
 * [Girls teaching girls to code](http://girlsteachinggirlstocode.org)
 
+## Bookmarks
+* [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
+
+## Learning Paths
+* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
+
 ## Miscellaneous 
 * [Stackoverflow](https://stackoverflow.com)
 * [Devdocs API documentation](http://devdocs.io)
@@ -308,6 +312,5 @@
 * [Codeburst](https://codeburst.io)
 * [JavaScripting](http://www.javascripting.com)
 * [Testdome](https://www.testdome.com)
-* [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 Last update: January 13th, 2018
