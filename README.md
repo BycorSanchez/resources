@@ -154,7 +154,7 @@
 * [Burst Shopify](https://burst.shopify.com)
 * [Isorepublic](https://isorepublic.com)
 * [Gratisography](https://gratisography.com)
-* [Jaymantri](http://jaymantri.com/)
+* [Jay Mantri](http://jaymantri.com/)
 * [Foodies Feed](https://www.foodiesfeed.com/)
 * [Negative Space](https://negativespace.co/)
 * [Freestocks](https://freestocks.org)
@@ -166,6 +166,18 @@
 * [Freepik](https://www.freepik.com)
 * [Magdeleine](https://magdeleine.co/)
 * [Cupcake](http://cupcake.nilssonlee.se)
+* [Avopix](https://avopix.com)
+* [Little Visuals](http://littlevisuals.co)
+* [Skuawk](http://skuawk.com)
+* [SplitShire](https://www.splitshire.com)
+* [Food Shot](https://foodshot.co)
+* [Pickup Image](http://pickupimage.com)
+* [Life of pix](http://www.lifeofpix.com)
+* [DesignersPics](http://www.designerspics.com)
+* [Good Stock Photos](https://goodstock.photos)
+* [Free Image Bank](http://www.freemagebank.com)
+* [Travel coffee book](http://travelcoffeebook.com)
+* [Finda photo](http://finda.photo)
 
 ## Icons
 * [Font Awesome](http://fontawesome.io/)
@@ -314,4 +326,4 @@
 * [JavaScripting](http://www.javascripting.com)
 * [Testdome](https://www.testdome.com)
 
-Last update: January 13th, 2018
+Last update: January 14th, 2018
