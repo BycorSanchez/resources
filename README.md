@@ -37,14 +37,6 @@
 * [ES6 Features](http://es6-features.org/)
 * [Watch and Code](https://watchandcode.com/)
 
-## JavaScript challenges and exercices
-* [JS Codewars](https://www.codewars.com/?language=javascript)
-* [JS30 challenge](https://javascript30.com)
-* [Coderbyte JS challenges](https://coderbyte.com/editor/guest:First%20Factorial:JavaScript)
-* [JS Exercises](http://www.asmarterwaytolearn.com/js/index-of-exercises.html)
-* [JS Exercises2](https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php)
-* [Edabit](https://edabit.com)
-
 ## Jquery
 * [Documentation](http://api.jquery.com)
 * [JQuery Tutorial](http://try.jquery.com)
@@ -65,10 +57,8 @@
 * [Coursera](https://www.coursera.org)
 * [Lynda](https://www.lynda.com)
 * [HTML CSS JS Tutorials](http://htmldog.com)
-* [Codewars](https://www.codewars.com)
 * [W3Schools](https://www.w3schools.com)
 * [Khan academy](https://www.khanacademy.org)
-* [CoderByte](https://coderbyte.com)
 * [Code School](https://www.codeschool.com)
 * [Bento](https://bento.io/tracks)
 * [Sitepoint](https://www.sitepoint.com)
@@ -79,12 +69,25 @@
 * [Internet is hard](https://internetingishard.com)
 * [Egg Head](https://egghead.io)
 * [Sabe](https://sabe.io)
-* [HackerRank](https://www.hackerrank.com)
 * [Platzi](https://courses.platzi.com)
 * [Laracasts](https://laracasts.com)
 * [Codemonk on Hackerearth](https://www.hackerearth.com/practice/codemonk/)
 * [Coding Heroes](http://codingheroes.io/index.html)
 * [Wes Bos](http://wesbos.com/courses/)
+* [Edabit](https://edabit.com)
+
+## Coding challenges
+* [Coderbyte](https://coderbyte.com/)
+* [Codewars](https://www.codewars.com)
+* [Code Fights](https://codefights.com)
+* [CodinGame](https://www.codingame.com/)
+* [Top Coder challenges](https://www.topcoder.com/challenges/)
+* [HackerRank](https://www.hackerrank.com)
+* [LeetCode](https://leetcode.com/)
+* [Code Chef](https://www.codechef.com/)
+* [Geeks for geeks](https://www.geeksforgeeks.org/)
+* [Code Forces](http://codeforces.com/)
+* [JS30 challenge](https://javascript30.com)
 
 ## Fonts and typography
 * [Google Fonts](https://fonts.google.com)
@@ -241,7 +244,6 @@
 * [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 * [Grid Critters](https://geddski.teachable.com/p/gridcritters)
 * [Encode](https://itunes.apple.com/us/app/encode-learn-to-code/id1198851756?mt=8)
-* [Coding Games](https://www.codingame.com)
 * [CheckiO](https://checkio.org)
 * [CSS Diner](https://flukeout.github.io)
 * [Flukeout (CSS exercises)](http://flukeout.github.io)
