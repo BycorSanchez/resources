@@ -306,9 +306,10 @@
 * [Girls teaching girls to code](http://girlsteachinggirlstocode.org)
 
 ## Bookmarks
-* [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [Front-end Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 * [Awesome Resources](https://github.com/dreamtocode/awesome-resources)
+* [Front-end Resources](https://enboard.co/frontend/)
 
 ## Learning Paths
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
