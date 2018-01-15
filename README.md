@@ -178,6 +178,7 @@
 * [Free Image Bank](http://www.freemagebank.com)
 * [Travel coffee book](http://travelcoffeebook.com)
 * [Finda photo](http://finda.photo)
+* [Wesaturate](https://www.wesaturate.com)
 
 ## Icons
 * [Font Awesome](http://fontawesome.io/)
@@ -327,4 +328,4 @@
 * [Testdome](https://www.testdome.com)
 * [Nodeschool](https://nodeschool.io)
 
-Last update: January 14th, 2018
+Last update: January 15th, 2018
