@@ -238,15 +238,23 @@
 * [Web design](https://www.reddit.com/r/web_design/)
 * [JQuery](https://www.reddit.com/r/jquery/)
 
-## Games & Apps
+## Games
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [Grid Garden](http://cssgridgarden.com)
 * [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 * [Grid Critters](https://geddski.teachable.com/p/gridcritters)
-* [Encode](https://itunes.apple.com/us/app/encode-learn-to-code/id1198851756?mt=8)
 * [CheckiO](https://checkio.org)
 * [CSS Diner](https://flukeout.github.io)
 * [Flukeout (CSS exercises)](http://flukeout.github.io)
+
+## Mobile Apps
+* Encode [(itunes)](https://itunes.apple.com/us/app/encode-learn-to-code/id1198851756?mt=8) [(android)](https://play.google.com/store/apps/details?id=com.upskew.encode)
+* Udacity [(itunes)](https://itunes.apple.com/us/app/udacity/id819700933?mt=8) [(android)](https://play.google.com/store/apps/details?id=com.udacity.android)
+* Khan Academy [(itunes)](https://itunes.apple.com/am/app/khan-academy/id469863705?mt=8) [(android)](https://play.google.com/store/apps/details?id=org.khanacademy.android)
+* Code Hub [(android)](https://play.google.com/store/apps/details?id=trycodehub.com)
+* SoloLearn [(itunes)](https://itunes.apple.com/us/app/sololearn-learn-to-code/id1210079064?mt=8) [(android)](https://play.google.com/store/apps/details?id=com.sololearn)
+* Programming Hub [(android)](https://play.google.com/store/apps/details?id=com.freeit.java)
+* Enki [(itunes)](https://itunes.apple.com/us/app/enki-improve-programming-skills-learn-to-code/id993753145?mt=8) [(android)](https://play.google.com/store/apps/details?id=com.enki.insights)
 
 ## Youtube channels 
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
@@ -331,4 +339,4 @@
 * [Testdome](https://www.testdome.com)
 * [Nodeschool](https://nodeschool.io)
 
-Last update: January 15th, 2018
+Last update: January 17th, 2018
