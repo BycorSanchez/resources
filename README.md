@@ -229,6 +229,7 @@
 * [Speaking JavaScript](http://speakingjs.com/es5/)
 * [JS Books](https://jsbooks.revolunet.com)
 * [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 ## Reddit threads
 * [HTML](https://www.reddit.com/r/HTML/)
@@ -338,5 +339,6 @@
 * [JavaScripting](http://www.javascripting.com)
 * [Testdome](https://www.testdome.com)
 * [Nodeschool](https://nodeschool.io)
+* [Speckyboy](https://speckyboy.com)
 
 Last update: January 17th, 2018
