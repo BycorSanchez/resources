@@ -147,6 +147,7 @@
 * [JenSimmons Labs CSS Grid](http://labs.jensimmons.com)
 * [CSS grid starter layouts](https://css-tricks.com/snippets/css/css-grid-starter-layouts/)
 * [CSS grid Mozilla developers](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+* [cssgrid.io](https://cssgrid.io)
 * [Bootstrap Framework](https://getbootstrap.com/docs/3.3/)
 * [Bootstrap grid builder](http://shoelace.io)
 
@@ -343,4 +344,4 @@
 * [Nodeschool](https://nodeschool.io)
 * [Speckyboy](https://speckyboy.com)
 
-Last update: January 17th, 2018
+Last update: January 18th, 2018
