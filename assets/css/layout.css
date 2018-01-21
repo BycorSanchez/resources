@@ -201,13 +201,24 @@ a {
 
 #footer .credits{
     display: flex;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: -ms-flex;
     flex-direction: row;
+    -moz-flex-direction: row;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
     flex-wrap: wrap;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
     justify-content: center;
+    -moz-justify-content: center;
+    -webkit-justify-content: center;
+    -ms-justify-content: center;
 }
 
 #footer .credits * {
-    margin: 0.5 0.5em;
+    margin: 0.25em 0.5em;
 }
 
 #topIcon {
