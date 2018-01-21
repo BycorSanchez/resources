@@ -75,6 +75,10 @@
 * [Coding Heroes](http://codingheroes.io/index.html)
 * [Wes Bos](http://wesbos.com/courses/)
 * [Edabit](https://edabit.com)
+* [Paqmind](http://paqmind.com)
+* [Open Classrooms](https://openclassrooms.com)
+* [Learn Code The Hard Way](https://learncodethehardway.org)
+* [Beginner's Book](https://beginnersbook.com)
 
 ## Coding challenges
 * [Coderbyte](https://coderbyte.com/)
@@ -331,6 +335,7 @@
 
 ## Miscellaneous 
 * [Stackoverflow](https://stackoverflow.com)
+* [GitHub](https://github.com)
 * [Devdocs API documentation](http://devdocs.io)
 * [CodePen](https://codepen.io)
 * [Emmet CheatSheet](https://docs.emmet.io/cheat-sheet/)
@@ -340,8 +345,9 @@
 * [Collection of JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
 * [Codeburst](https://codeburst.io)
 * [JavaScripting](http://www.javascripting.com)
-* [Testdome](https://www.testdome.com)
 * [Nodeschool](https://nodeschool.io)
 * [Speckyboy](https://speckyboy.com)
+* [Testdome](https://www.testdome.com)
+* [InterviewBit](https://www.interviewbit.com)
 
-Last update: January 18th, 2018
+Last update: January 21th, 2018
