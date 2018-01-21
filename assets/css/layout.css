@@ -170,6 +170,10 @@ a {
     background-color: #e9eeee;
 }
 
+#main section h1{
+    color: #333333;
+}
+
 #top {
     padding: 10% 10%;
     text-align: center;
@@ -195,9 +199,15 @@ a {
     background-color: #dce3e2;   
 }
 
+#footer .credits{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 #footer .credits * {
-    display: inline;
-    margin: 0 0.5em;
+    margin: 0.5 0.5em;
 }
 
 #topIcon {
