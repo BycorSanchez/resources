@@ -105,6 +105,8 @@
 * [DaFont](https://www.dafont.com)
 * [1001FreeFonts](https://www.1001freefonts.com)
 * [Font Pair](http://fontpair.co)
+* [Font Combinations](https://www.canva.com/font-combinations/)
+* [typ.io](http://typ.io)
 
 ## Online Tools
 * [CSSmatic](https://www.cssmatic.com)
@@ -350,4 +352,4 @@
 * [Testdome](https://www.testdome.com)
 * [InterviewBit](https://www.interviewbit.com)
 
-Last update: January 21th, 2018
+Last update: January 22nd, 2018
