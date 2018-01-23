@@ -296,6 +296,7 @@
 * [Codrops](https://tympanus.net/codrops/)
 * [UX Design](https://uxdesign.cc)
 * [Code My UI](https://codemyui.com/)
+* [Good UI](http://goodui.org)
 
 ## Resources for women & girls
 * [Women Who Code](https://www.womenwhocode.com)
@@ -352,4 +353,4 @@
 * [Testdome](https://www.testdome.com)
 * [InterviewBit](https://www.interviewbit.com)
 
-Last update: January 22nd, 2018
+Last update: January 23rd, 2018
