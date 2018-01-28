@@ -79,6 +79,8 @@
 * [Open Classrooms](https://openclassrooms.com)
 * [Learn Code The Hard Way](https://learncodethehardway.org)
 * [Beginner's Book](https://beginnersbook.com)
+* [Upskill Courses](https://upskillcourses.com)
+* [Learn to Code HTML and CSS](https://learn.shayhowe.com)
 
 ## Coding challenges
 * [Coderbyte](https://coderbyte.com/)
@@ -247,6 +249,7 @@
 * [Web development](https://www.reddit.com/r/webdev/)
 * [Web design](https://www.reddit.com/r/web_design/)
 * [JQuery](https://www.reddit.com/r/jquery/)
+* [Learn Programming](https://www.reddit.com/r/learnprogramming/)
 
 ## Games
 * [Flexbox Froggy](http://flexboxfroggy.com)
@@ -331,6 +334,7 @@
 * [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 * [Awesome Resources](https://github.com/dreamtocode/awesome-resources)
 * [Front-end Resources](https://enboard.co/frontend/)
+* [Become a Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/)
 
 ## Learning Paths
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -352,5 +356,6 @@
 * [Speckyboy](https://speckyboy.com)
 * [Testdome](https://www.testdome.com)
 * [InterviewBit](https://www.interviewbit.com)
+* [g5code](http://www.g5code.com/)
 
-Last update: January 23rd, 2018
+Last update: January 28th, 2018
