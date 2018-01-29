@@ -357,5 +357,5 @@
 * [Testdome](https://www.testdome.com)
 * [InterviewBit](https://www.interviewbit.com)
 * [g5code](http://www.g5code.com/)
-
+* [Computer Science in laymens terms](http://carlcheo.com/compsci)
 Last update: January 28th, 2018
