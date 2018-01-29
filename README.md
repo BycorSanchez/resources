@@ -142,6 +142,7 @@
 * [0to255](http://www.0to255.com/)
 * [Lol Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 * [Web Gradients](https://webgradients.com)
+* [HailPixel](https://color.hailpixel.com/)
 
 ## Flexbox 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -335,6 +336,7 @@
 * [Awesome Resources](https://github.com/dreamtocode/awesome-resources)
 * [Front-end Resources](https://enboard.co/frontend/)
 * [Become a Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/)
+* [Awesome pictures](https://github.com/heyalexej/awesome-images)
 
 ## Learning Paths
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -356,6 +358,7 @@
 * [Speckyboy](https://speckyboy.com)
 * [Testdome](https://www.testdome.com)
 * [InterviewBit](https://www.interviewbit.com)
-* [g5code](http://www.g5code.com/)
 * [Computer Science in laymens terms](http://carlcheo.com/compsci)
-Last update: January 28th, 2018
+* [g5code](http://www.g5code.com/)
+
+Last update: January 29th, 2018
