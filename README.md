@@ -252,15 +252,6 @@
 * [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
-## Reddit threads
-* [HTML](https://www.reddit.com/r/HTML/)
-* [CSS](https://www.reddit.com/r/css/)
-* [Javascript](https://www.reddit.com/r/javascript/)
-* [Web development](https://www.reddit.com/r/webdev/)
-* [Web design](https://www.reddit.com/r/web_design/)
-* [JQuery](https://www.reddit.com/r/jquery/)
-* [Learn Programming](https://www.reddit.com/r/learnprogramming/)
-
 ## Games
 * [Flexbox Froggy](http://flexboxfroggy.com)
 * [Grid Garden](http://cssgridgarden.com)
@@ -278,17 +269,6 @@
 * SoloLearn [(itunes)](https://itunes.apple.com/us/app/sololearn-learn-to-code/id1210079064?mt=8) [(android)](https://play.google.com/store/apps/details?id=com.sololearn)
 * Programming Hub [(android)](https://play.google.com/store/apps/details?id=com.freeit.java)
 * Enki [(itunes)](https://itunes.apple.com/us/app/enki-improve-programming-skills-learn-to-code/id993753145?mt=8) [(android)](https://play.google.com/store/apps/details?id=com.enki.insights)
-
-## Youtube channels 
-* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-* [Derek Banas](https://www.youtube.com/user/derekbanas)
-* [CodingTutorials360](https://www.youtube.com/user/pizzapokerguy87)
-* [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
-* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
-* [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
-* [Le Wagon](https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw)
-* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-* [JavaBrains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
 
 ## Design
 * [Design Inspiration](https://www.designspiration.net)
@@ -347,11 +327,31 @@
 * [Become a Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/)
 * [Awesome pictures](https://github.com/heyalexej/awesome-images)
 
+## Youtube channels 
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+* [Derek Banas](https://www.youtube.com/user/derekbanas)
+* [CodingTutorials360](https://www.youtube.com/user/pizzapokerguy87)
+* [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+* [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
+* [Le Wagon](https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw)
+* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [JavaBrains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
+
+## Reddit threads
+* [HTML](https://www.reddit.com/r/HTML/)
+* [CSS](https://www.reddit.com/r/css/)
+* [Javascript](https://www.reddit.com/r/javascript/)
+* [Web development](https://www.reddit.com/r/webdev/)
+* [Web design](https://www.reddit.com/r/web_design/)
+* [JQuery](https://www.reddit.com/r/jquery/)
+* [Learn Programming](https://www.reddit.com/r/learnprogramming/)
+
 ## Learning Paths
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
 
-## Miscellaneous 
+## Miscellaneous
 * [Stackoverflow](https://stackoverflow.com)
 * [GitHub](https://github.com)
 * [Devdocs API documentation](http://devdocs.io)
