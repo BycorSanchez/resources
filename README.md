@@ -127,6 +127,7 @@
 * [Regular Expressions tester](https://regex101.com)
 * [JavaScript Object Explorer](https://sdras.github.io//object-explorer/)
 * [Code visualizer](http://www.pythontutor.com/visualize.html)
+* [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/)
 
 ## Colors and Palettes
 * [Adobe Color](https://color.adobe.com)
@@ -209,6 +210,13 @@
 * [Devicon](http://konpa.github.io/devicon/)
 * [Fontello](http://fontello.com)
 * [We Love Icon Fonts](http://weloveiconfonts.com)
+* [Orion Icon Library](https://orioniconlibrary.com)
+
+## Background Patterns
+* [The Pattern Library](http://thepatternlibrary.com/)
+* [Hero Patterns](http://www.heropatterns.com)
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
+* [Patterninja](https://patterninja.com)
 
 ## Podcasts 
 * [Castbox](https://castbox.fm)
@@ -351,7 +359,6 @@
 * [Emmet CheatSheet](https://docs.emmet.io/cheat-sheet/)
 * [Makerbook](http://makerbook.net)
 * [Dirty Markup](https://www.10bestdesign.com/dirtymarkup/)
-* [Pattern Library](http://thepatternlibrary.com/)
 * [Collection of JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
 * [Codeburst](https://codeburst.io)
 * [JavaScripting](http://www.javascripting.com)
