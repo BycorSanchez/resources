@@ -126,6 +126,7 @@
 * [Glyphter custom icon fonts](https://glyphter.com)
 * [Regular Expressions tester](https://regex101.com)
 * [JavaScript Object Explorer](https://sdras.github.io//object-explorer/)
+* [Code visualizer](http://www.pythontutor.com/visualize.html)
 
 ## Colors and Palettes
 * [Adobe Color](https://color.adobe.com)
@@ -361,4 +362,4 @@
 * [Computer Science in laymens terms](http://carlcheo.com/compsci)
 * [g5code](http://www.g5code.com/)
 
-Last update: January 29th, 2018
+Last update: January 31st, 2018
