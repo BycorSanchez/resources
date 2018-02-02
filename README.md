@@ -145,6 +145,7 @@
 * [Lol Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 * [Web Gradients](https://webgradients.com)
 * [HailPixel](https://color.hailpixel.com/)
+* [ColourCode](https://colourco.de)
 
 ## Flexbox 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -251,6 +252,7 @@
 * [JS Books](https://jsbooks.revolunet.com)
 * [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [GoalKicker](http://goalkicker.com)
 
 ## Games
 * [Flexbox Froggy](http://flexboxfroggy.com)
@@ -369,4 +371,4 @@
 * [Computer Science in laymens terms](http://carlcheo.com/compsci)
 * [g5code](http://www.g5code.com/)
 
-Last update: January 31st, 2018
+Last update: February 2nd, 2018
