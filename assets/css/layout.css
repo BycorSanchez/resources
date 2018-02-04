@@ -285,6 +285,11 @@ a {
         width: 255px;
     }
 
+    #menu .icon{
+        position: initial;
+        margin: 0 0.4em;
+    }
+
     #menu-footer {
         font-size: 1.2em;
     }
