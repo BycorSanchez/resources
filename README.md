@@ -42,6 +42,10 @@
 * [JQuery Tutorial](http://try.jquery.com)
 * [JQuery CheatSheet](https://oscarotero.com/jquery/)
 
+## Git
+* [Try Git](https://try.github.io)
+* [Git immersion](http://gitimmersion.com)
+
 ## Courses and online learning
 * [Udacity](https://www.udacity.com)
 * [FreeCodeCamp](https://www.freecodecamp.org)
