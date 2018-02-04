@@ -1,7 +1,7 @@
 # Resources
 #### List of resources for ~~web~~ developers. Collected at the forum during the Google / Udacity Front-End Developer Scholarship.  
 
-#### Website [https://bycorsanchez.github.io/resources](https://bycorsanchez.github.io/resources/)
+#### URL: [https://bycorsanchez.github.io/resources](https://bycorsanchez.github.io/resources/)
 
 ## HTML
 * [HTML 5.3](http://w3c.github.io/html/)
@@ -81,6 +81,7 @@
 * [Beginner's Book](https://beginnersbook.com)
 * [Upskill Courses](https://upskillcourses.com)
 * [Learn to Code HTML and CSS](https://learn.shayhowe.com)
+* [Scotch.io](https://scotch.io/courses)
 
 ## Coding challenges
 * [Coderbyte](https://coderbyte.com/)
@@ -370,5 +371,6 @@
 * [InterviewBit](https://www.interviewbit.com)
 * [Computer Science in laymens terms](http://carlcheo.com/compsci)
 * [g5code](http://www.g5code.com/)
+* [The Code Player](http://thecodeplayer.com)
 
-Last update: February 2nd, 2018
+Last update: February 4th, 2018
