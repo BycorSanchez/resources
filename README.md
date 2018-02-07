@@ -357,6 +357,7 @@
 ## Learning Paths
 * [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 * [Coggle Diagram](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
+* [Guides in a variety of domains (including web development)](https://github.com/P1xt/p1xt-guides)
 
 ## Miscellaneous
 * [Stackoverflow](https://stackoverflow.com)
