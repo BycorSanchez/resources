@@ -151,6 +151,7 @@
 * [Web Gradients](https://webgradients.com)
 * [HailPixel](https://color.hailpixel.com/)
 * [ColourCode](https://colourco.de)
+* [Color Hunt](http://colorhunt.co)
 
 ## Flexbox 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -378,4 +379,4 @@
 * [g5code](http://www.g5code.com/)
 * [The Code Player](http://thecodeplayer.com)
 
-Last update: February 4th, 2018
+Last update: February 9th, 2018
