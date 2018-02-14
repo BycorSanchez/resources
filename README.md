@@ -335,6 +335,7 @@
 * [Front-end Resources](https://enboard.co/frontend/)
 * [Become a Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer/)
 * [Awesome pictures](https://github.com/heyalexej/awesome-images)
+* [Pretty Awesome Lists](https://www.prettyawesomelists.com)
 
 ## Youtube channels 
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
