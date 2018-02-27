@@ -2,6 +2,7 @@
 #### List of resources for ~~web~~ developers. Collected at the forum during the Google / Udacity Front-End Developer Scholarship.  
 
 #### URL: [https://bycorsanchez.github.io/resources](https://bycorsanchez.github.io/resources/)
+#### Google site: [https://sites.google.com/view/createdbyudacitystudents/home/fend](https://sites.google.com/view/createdbyudacitystudents/home/fend)
 
 ## HTML
 * [HTML 5.3](http://w3c.github.io/html/)
@@ -382,4 +383,4 @@
 * [g5code](http://www.g5code.com/)
 * [The Code Player](http://thecodeplayer.com)
 
-Last update: February 20th, 2018
+Last update: February 27th, 2018
