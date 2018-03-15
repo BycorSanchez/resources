@@ -87,6 +87,7 @@
 * [Upskill Courses](https://upskillcourses.com)
 * [Learn to Code HTML and CSS](https://learn.shayhowe.com)
 * [Scotch.io](https://scotch.io/courses)
+* [Progate](https://progate.com)
 
 ## Coding challenges
 * [Coderbyte](https://coderbyte.com/)
@@ -383,4 +384,4 @@
 * [g5code](http://www.g5code.com/)
 * [The Code Player](http://thecodeplayer.com)
 
-Last update: February 27th, 2018
+Last update: March 15th, 2018
