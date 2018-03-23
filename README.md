@@ -383,5 +383,6 @@
 * [Computer Science in laymens terms](http://carlcheo.com/compsci)
 * [g5code](http://www.g5code.com/)
 * [The Code Player](http://thecodeplayer.com)
+* [Simple CSS](http://simplecss.eu)
 
 Last update: March 15th, 2018
