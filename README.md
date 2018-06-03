@@ -223,7 +223,7 @@
 * [We Love Icon Fonts](http://weloveiconfonts.com)
 * [Orion Icon Library](https://orioniconlibrary.com)
 
-## Background Patterns
+## Backgrounds
 * [The Pattern Library](http://thepatternlibrary.com/)
 * [Hero Patterns](http://www.heropatterns.com)
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
