@@ -224,6 +224,7 @@
 * [Orion Icon Library](https://orioniconlibrary.com)
 
 ## Backgrounds
+* [Cool Backgrounds](https://coolbackgrounds.io)
 * [The Pattern Library](http://thepatternlibrary.com/)
 * [Hero Patterns](http://www.heropatterns.com)
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
