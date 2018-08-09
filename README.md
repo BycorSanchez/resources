@@ -222,6 +222,7 @@
 * [Fontello](http://fontello.com)
 * [We Love Icon Fonts](http://weloveiconfonts.com)
 * [Orion Icon Library](https://orioniconlibrary.com)
+* [Tilda Icons](https://tilda.cc/free-icons/)
 
 ## Backgrounds
 * [Cool Backgrounds](https://coolbackgrounds.io)
