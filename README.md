@@ -156,6 +156,8 @@
 * [ColourCode](https://colourco.de)
 * [Color Hunt](http://colorhunt.co)
 * [Pigment](https://pigment.shapefactory.co)
+* [GradientLab](https://gradientlab.space/)
+* [Picular](https://picular.co)
 
 ## Flexbox 
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
