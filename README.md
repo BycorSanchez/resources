@@ -354,6 +354,7 @@
 * [Le Wagon](https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw)
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 * [JavaBrains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
+* [TheNewBoston](https://www.youtube.com/user/thenewboston)
 
 ## Reddit threads
 * [HTML](https://www.reddit.com/r/HTML/)
