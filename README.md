@@ -390,4 +390,4 @@
 * [The Code Player](http://thecodeplayer.com)
 * [Simple CSS](http://simplecss.eu)
 
-Last update: December 19th, 2018
+Last update: November 19th, 2018
