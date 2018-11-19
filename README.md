@@ -136,6 +136,7 @@
 * [Code visualizer](http://www.pythontutor.com/visualize.html)
 * [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/)
 * [Our Own Thing](http://www.ourownthing.co.uk)
+* [Squoosh](https://squoosh.app)
 
 ## Colors and Palettes
 * [Adobe Color](https://color.adobe.com)
@@ -389,4 +390,4 @@
 * [The Code Player](http://thecodeplayer.com)
 * [Simple CSS](http://simplecss.eu)
 
-Last update: March 15th, 2018
+Last update: December 19th, 2018
