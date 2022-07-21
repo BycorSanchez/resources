@@ -88,6 +88,7 @@
 * [Learn to Code HTML and CSS](https://learn.shayhowe.com)
 * [Scotch.io](https://scotch.io/courses)
 * [Progate](https://progate.com)
+* [Scaler](https://www.scaler.com/topics/)
 
 ## Coding challenges
 * [Coderbyte](https://coderbyte.com/)
