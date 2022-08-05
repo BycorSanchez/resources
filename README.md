@@ -11,6 +11,7 @@
 * [Mega HTML CheatSheet](https://medium.com/level-up-web/the-mega-html5-cheatsheet-e8c479b1c521)
 * [HTML Reference](http://htmlreference.io)
 * [Guide to head elements](https://gethead.info)
+* [HTML vs HTML5](https://www.interviewbit.com/blog/difference-between-html-and-html5/)
 
 ## CSS
 * [CSS MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
