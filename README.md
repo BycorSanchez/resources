@@ -54,6 +54,7 @@
 * [Sololearn](https://www.sololearn.com)
 * [Dash](https://dash.generalassemb.ly)
 * [The new Boston](https://thenewboston.com)
+* [Scaler Topics](https://www.scaler.com/topics/)
 * [Cybrary](https://www.cybrary.it)
 * [The Odin Project](https://www.theodinproject.com/home)
 * [Codecademy](https://www.codecademy.com)
