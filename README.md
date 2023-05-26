@@ -255,6 +255,7 @@
 * [Full Stack Radio](https://player.fm/series/series-1401837)
 * [Start Here: Web Development](https://soundcloud.com/starthere-webdev)
 * [Syntax.fm](https://syntax.fm)
+* [Select*](https://www.harperdb.io/blog-categories/podcast)
 
 ## Ebooks 
 * [50 ebooks about web development](https://speckyboy.com/free-web-design-ebooks/)
