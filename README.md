@@ -137,6 +137,7 @@
 * [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/)
 * [Our Own Thing](http://www.ourownthing.co.uk)
 * [Squoosh](https://squoosh.app)
+* [WebCurate Developer Tools](https://webcurate.co/c/developer)
 
 ## Colors and Palettes
 * [Adobe Color](https://color.adobe.com)
